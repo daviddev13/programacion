@@ -29,9 +29,16 @@
       <div>
         <div class="card" style="width: 26rem;">
           <div class="card-body">
-          <h3>TABLAS</h3>
-          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">TABLAS EN MySQL</a></li>   
-          </div>
+          <h3>Archivos</h3>
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">Lista de archivos</a></li>   
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">Hacer/Copiar/Mover archivos</a></li>    
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">Abrir archivos</a></li> 
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">Enlaces/url o ubicaciones</a></li>
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">Carpetas</a></li>
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">historia de comandos</a></li>
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">Limpiar consola</a></li>
+          <li class="nav-item"><a class="nav-link" href="mysql/tablasenmysql.php">Resumir comando largo</a></li>
+        </div>
          </div>
       </div>
 

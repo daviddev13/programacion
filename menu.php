@@ -57,6 +57,10 @@
             <li class="nav-item"><a class="nav-link" href="git.php">Git</a></li>
             <li class="nav-item"><a class="nav-link" href="filezilla.php">Filezilla</a></li>
           </div>
+          <div class="card-body">
+            <h3>Linux</h3>
+            <li class="nav-item"><a class="nav-link" href="linux.php">Comandos</a></li>
+          </div>
         </div>
       </div>
 
