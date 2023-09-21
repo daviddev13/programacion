@@ -3,9 +3,9 @@
 if (isset($_GET['parte'])) {
     $parte = $_GET['parte'];
     if ($parte == 0) {
-        echo 'Archivos ls                         listar archivos sin lista
-ls -a                      listar todo archivo sin lista
-ls -al                     listar todo archivo (normales + ocultos) en lista';
+        printf("Archivos<br><br>ls                         listar archivos sin lista<br>ls -a                      listar todo archivo sin lista<br>ls -al                     listar todo archivo (normales + ocultos) en lista<br>");
+
+
     } elseif ($parte == 1) {
         echo 'touch archivo.extension    crear archivo vacio
         rm archivo.extension       remove eliminar archivo
