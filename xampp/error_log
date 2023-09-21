@@ -1,0 +1,90 @@
+[19-Aug-2022 23:08:23 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[19-Aug-2022 23:08:23 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[26-Aug-2022 18:19:44 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[26-Aug-2022 18:19:44 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[30-Aug-2022 11:29:45 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[30-Aug-2022 11:29:45 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[03-Sep-2022 18:34:34 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[03-Sep-2022 18:34:34 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[03-Sep-2022 21:19:19 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[03-Sep-2022 21:19:19 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[05-Sep-2022 07:53:05 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[05-Sep-2022 07:53:05 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[06-Sep-2022 08:10:53 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[06-Sep-2022 08:10:53 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[13-Sep-2022 21:13:28 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[13-Sep-2022 21:13:28 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Sep-2022 23:21:53 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Sep-2022 23:21:53 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[21-Sep-2022 12:57:24 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[21-Sep-2022 12:57:24 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[22-Sep-2022 14:51:15 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[22-Sep-2022 14:51:15 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[22-Sep-2022 15:13:11 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[22-Sep-2022 15:13:11 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[24-Sep-2022 22:43:48 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[24-Sep-2022 22:43:48 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[28-Sep-2022 03:04:45 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[28-Sep-2022 03:04:45 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[29-Sep-2022 10:16:50 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[29-Sep-2022 10:16:50 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[29-Sep-2022 11:38:44 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[29-Sep-2022 11:38:44 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[05-Oct-2022 14:18:45 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[05-Oct-2022 14:18:45 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[08-Oct-2022 17:58:08 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[08-Oct-2022 17:58:08 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[09-Oct-2022 07:26:21 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[09-Oct-2022 07:26:21 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Oct-2022 09:13:51 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Oct-2022 09:13:51 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[15-Oct-2022 17:12:01 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[15-Oct-2022 17:12:01 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Oct-2022 12:39:39 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Oct-2022 12:39:39 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Oct-2022 12:39:54 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Oct-2022 12:39:54 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[18-Oct-2022 21:47:18 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[18-Oct-2022 21:47:18 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[21-Oct-2022 17:05:17 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[21-Oct-2022 17:05:17 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[30-Oct-2022 19:03:57 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[30-Oct-2022 19:03:57 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[06-Nov-2022 23:17:16 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[06-Nov-2022 23:17:16 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[08-Nov-2022 21:41:59 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[08-Nov-2022 21:41:59 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[10-Nov-2022 20:43:04 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[10-Nov-2022 20:43:04 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Nov-2022 03:25:22 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Nov-2022 03:25:22 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Nov-2022 12:15:01 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Nov-2022 12:15:01 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Nov-2022 12:34:41 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[16-Nov-2022 12:34:41 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[23-Nov-2022 12:20:41 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[23-Nov-2022 12:20:41 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[01-Dec-2022 12:20:14 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[01-Dec-2022 12:20:14 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[01-Dec-2022 18:42:23 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[01-Dec-2022 18:42:23 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[11-Dec-2022 04:40:32 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[11-Dec-2022 04:40:32 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[17-Dec-2022 01:56:16 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[17-Dec-2022 01:56:16 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[18-Dec-2022 18:59:28 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[18-Dec-2022 18:59:28 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[18-Dec-2022 19:14:14 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[18-Dec-2022 19:14:14 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[22-Dec-2022 21:50:51 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[22-Dec-2022 21:50:51 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[25-Dec-2022 15:07:53 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[25-Dec-2022 15:07:53 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[10-Jan-2023 14:11:43 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[10-Jan-2023 14:11:43 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[13-Jan-2023 21:02:47 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[13-Jan-2023 21:02:47 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Jan-2023 05:34:01 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[14-Jan-2023 05:34:01 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[15-Jan-2023 19:55:55 UTC] PHP Warning:  include(../menuxampp.php): failed to open stream: No such file or directory in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
+[15-Jan-2023 19:55:55 UTC] PHP Warning:  include(): Failed opening '../menuxampp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /homeg/devcodig/public_html/xampp/xamppgrafico.php on line 16
