@@ -18,7 +18,20 @@ El comando crea una carpeta oculta en la carpeta de la APP,  para
 verla se presiona (Ctrl+ h) y así se pueden mover hay los archivos
 que no se quieran subir al servidor de Git.</p>
 
+<p>Tambien se puede dar instrucciones para Proteger/Ignorar archivos en Git 
+    editando el codigo desde un editor del archivo .gitignore creado con el 
+    comando anterior por ejemlo.
+</p>
+    <ol>
+        <li><code>*.jpg</code>: Modificar el archivo <code>.gitignore</code> para ignorar todos los archivos con extensión <code>.jpg</code>.</li>
+        <li><code>git add .gitignore</code>: Agregar el archivo <code>.gitignore</code> al área de preparación (stage) de Git.</li>
+    </ol>
 </div>
+
+
+
+
+
 <div class="col-md-4 mx-auto">
 <a href="../git.php" class="btn btn-success" role="button" >Regresar a Menu Git</a>
 </div>

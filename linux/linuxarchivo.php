@@ -196,6 +196,7 @@ if (isset($_GET['parte'])) {
 }
 
 ?>
+
 <div class="col-md-4 mx-auto">
 <a href="../linux.php" class="btn btn-success" role="button" >Regresar a Menu</a>
 </div>
